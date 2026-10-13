@@ -1,4 +1,4 @@
  Samuel Augusto de Souza Marotta / 09/10/2026/ Horário: 20:46 
- temperatura: 31°/ clima: Ensolarado
+ temperatura: 26°/ clima: Ensolarado
  descrição: nesse projeto vai ser realizado uma mini ativiade 
 sobre git.
