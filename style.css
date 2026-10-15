@@ -1,16 +1,15 @@
 
         body {
             font-family: Arial, sans-serif;
-            background-color: #f474f9;
+            background-color: #9c1111;
             margin: 0;
+              padding: 30px;
+            border-radius: 10px;
         }
         .card {
             background-color: #f7f1f9;
             padding: 30px;
             border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        
-            max-width: 400px;
         }
     
      
